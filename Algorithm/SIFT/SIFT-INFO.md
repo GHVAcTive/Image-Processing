@@ -1,7 +1,3 @@
-Absolutely! Below is a more **professional and informative** version of the README, with clear instructions, explanations, and adjustments to make it more general and easy to follow. I’ve also added detailed information about the code, image paths, and how the process works.
-
----
-
 # 🖼️ **SIFT (Scale-Invariant Feature Transform) Keypoint Matching Algorithm**
 
 This repository demonstrates the usage of **SIFT (Scale-Invariant Feature Transform)** to detect and match keypoints between two images. The code reads input images, processes them, and draws the matching keypoints between them. The result is saved as an output image for further analysis or visualization.
