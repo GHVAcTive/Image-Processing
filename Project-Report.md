@@ -1,16 +1,3 @@
-Got it! Here's a detailed and well-structured project report format for your complete image processing assignment, covering:
-
-- Harris Corner Detection  
-- Shi-Tomasi Corner Detection  
-- SIFT  
-- SURF  
-- ORB  
-- RANSAC  
-
-The code and screenshot areas are left as placeholders, and I've used professional documentation structure for clarity and polish.
-
----
-
 # 🧠 Computer Vision Project Report: Feature Detection & Matching
 
 ---
