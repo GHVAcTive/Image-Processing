@@ -1,5 +1,9 @@
 # Image Processing Project 🎨🖼️
 
+## AUTHOR : SUYASH KANHED
+
+---
+
 ## Overview 🚀  
 Welcome to the **Image Processing Project** repository! This project is dedicated to implementing advanced image processing algorithms using Python. Designed for both academic research and real-world applications, our work delivers robust, efficient, and easy-to-understand solutions for a wide range of image analysis and transformation tasks. Whether you're learning the basics or refining advanced techniques, this repository has something to offer everyone! 😃
 
