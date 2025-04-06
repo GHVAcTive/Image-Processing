@@ -1,6 +1,6 @@
 # Image Processing Project 🎨🖼️
 
-## *AUTHOR* : **SUYASH KANHED**
+## **AUTHOR** : Suyash Kanhed
 
 ---
 
