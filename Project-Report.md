@@ -99,7 +99,7 @@ Harris Corner Detection is one of the oldest and most reliable methods to identi
 
 #### 📄 Code Snippet
 
->  Here’s the code snippet formatted properly in **bash code block** as you requested:
+>  Here’s the code snippet:
 
 ```bash
 import cv2
@@ -150,12 +150,11 @@ cv2.destroyAllWindows()
 print(f"[✔] Result saved: {output_path}")
 ```
 
-This will allow you to include the code in your report, leaving space for screenshots of the output and making it easy to follow. Let me know if you need further modifications!
-
-
 #### 🖼 Output
 
-> _[Insert Output Screenshot here]_  
+> Here is the Output: 
+![harris_corners_result](https://github.com/user-attachments/assets/658c2a42-99fb-4f29-9a2b-fe47b7807755)
+
 
 ---
 
