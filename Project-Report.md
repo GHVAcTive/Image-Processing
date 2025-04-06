@@ -99,7 +99,11 @@ Harris Corner Detection is one of the oldest and most reliable methods to identi
 
 #### 📄 Code Snippet
 
-> _[Insert Harris Corner Detection code here]_
+>  ```bash
+   git clone <repository_url>
+   cd Image-Processing
+   ```
+
 
 #### 🖼 Output
 
