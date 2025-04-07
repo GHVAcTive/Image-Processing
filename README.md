@@ -1,6 +1,7 @@
 # Image Processing Project 🎨🖼️
 
 ## **AUTHOR** : Suyash Kanhed
+## **Collaborator** : Prof. Sruthi Nair
 
 ---
 
